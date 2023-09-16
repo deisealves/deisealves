@@ -1,4 +1,5 @@
-### Olá, Sou Deise Alves S. 👋
+### Olá, sou Deise A. Soares 👋
 
-Sou desenvolvedora backend, estudante de Engenharia de Software na universidade estácio de sá. Iniciei minha jornada na transição de carreira a 1 ano na linguagem java. Continuo em desenvolvimento em busca de aperfeiçoar meus conhecimentos e habilidades. Atualmente consegui minha primeira oportunidade na área da tecnologia é sou estagiária desenvolvedora backend no banco itaú.👩🏽‍💻✨
-
+Estudante de Engenharia de Software na universidade Estácio de Sá, iniciei minha jornada de transição de carreira em 2022, estudando principalmente a linguagem de programação Java e seus principais frameworks (JUnit, Spring, etc).  
+Busco diariamente aperfeiçoar meus conhecimentos e habilidades.  
+👩🏽‍💻✨ Atualmente sou estagiária de desenvolvimento backend no banco Itaú.
